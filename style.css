@@ -39,6 +39,10 @@ body {
     color: #FFF2E7;
 }
 
+.cabecalho-menu-item:hover  {
+    color: rgba(236, 214, 196, 0.53);;
+}
+
 .conteudo {
     border-top: 0.4px solid #FFF2E7;
     margin-bottom: 48px;
@@ -126,4 +130,43 @@ body {
     height: 48px;
     display: block;
     margin: 0 auto;
+}
+
+/* ------------------------------------ ABOUT PAGE ------------------------------------ */
+.conteudo-principal-text-about-title {
+    font-family: 'Righteous', cursive;
+    font-weight: 400;
+    font-size: 64px;
+    color: #FFF2E7;
+}
+
+.conteudo-principal-text-about {
+    font-family: 'Sarala', sans-serif; 
+    font-weight: 400;
+    font-size: 24px;
+    color: #ECD6C4;
+}
+
+.conteudo-about-buttons{
+    display: flex;
+    flex-direction: row;
+    gap: 48px;
+    margin-bottom: 60px;
+}
+
+.conteudo-about-item-button {
+    background-color: #ECD6C4;
+    width: 180px;
+    height: 60px;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    font-family: 'Sarala', sans-serif; 
+    font-weight: 400;
+    font-size: 22px;
+    color: #2F2325;
+}
+
+.conteudo-about-item-button:hover {
+    background-color: rgba(236, 214, 196, 0.53);
 }
