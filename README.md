@@ -29,4 +29,4 @@ EN: I am immensely grateful to [@rafaballerini](https://github.com/rafaballerini
 ---------------
 
 
-### <p align="center">💖 Obrigada por ler até aqui | Thanks for reading this far 💖</p> 
+### <p align="center">💖 Obrigada por ler até aqui | Thanks for reading this far 💖</p>
