@@ -133,6 +133,12 @@ body {
 }
 
 /* ------------------------------------ ABOUT PAGE ------------------------------------ */
+
+.conteudo {
+    border-top: 0.4px solid #FFF2E7;
+    margin-bottom: 48px;
+}
+
 .conteudo-principal-text-about-title {
     font-family: 'Righteous', cursive;
     font-weight: 400;
@@ -151,7 +157,8 @@ body {
     display: flex;
     flex-direction: row;
     gap: 48px;
-    margin-bottom: 60px;
+    margin-top: 24px;
+    margin-bottom: 48px;
 }
 
 .conteudo-about-item-button {
