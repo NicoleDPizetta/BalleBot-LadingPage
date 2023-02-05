@@ -5,8 +5,11 @@ BR: Este é um projeto de estudo executado acompanhando um [tutorial no Youtube]
 EN: This is a study project based on a [tutorial on Youtube](https://www.youtube.com/watch?v=llF6vD-RljE&t=1557s) made by [@rafaballerini](https://github.com/rafaballerini).
 
 ## 🤎 Screenshots
-#### Desktop 
-![](./assets/desktop.png) 
+#### Home 
+![](./assets/home.png) 
+
+#### Home 
+![](./assets/sobre.png) 
 
 ## 🤎 Preview site
 [Clique aqui | Click here](https://nicoledpizetta.github.io/BalleBot-LadingPage/)
