@@ -1,14 +1,14 @@
 # 🤎 BalleBot - LadingPage
 
-BR: Este é um projeto de estudo executado acompanhando um [tutorial no Youtube](https://www.youtube.com/watch?v=llF6vD-RljE&t=1557s) feito pela [@rafaballerini](https://github.com/rafaballerini).
+BR: Este é um projeto de estudo executado acompanhando um [tutorial no Youtube](https://www.youtube.com/watch?v=llF6vD-RljE&t=1557s) feito pela [@rafaballerini](https://github.com/rafaballerini). Além da Home da Lading Page, adicionei uma página "Sobre".
 
-EN: This is a study project based on a [tutorial on Youtube](https://www.youtube.com/watch?v=llF6vD-RljE&t=1557s) made by [@rafaballerini](https://github.com/rafaballerini).
+EN: This is a study project based on a [tutorial on Youtube](https://www.youtube.com/watch?v=llF6vD-RljE&t=1557s) made by [@rafaballerini](https://github.com/rafaballerini). In addition to the Landing Page Home, I added an "About" page.
 
 ## 🤎 Screenshots
 #### Home 
 ![](./assets/home.png) 
 
-#### Home 
+#### Sobre 
 ![](./assets/sobre.png) 
 
 ## 🤎 Preview site
