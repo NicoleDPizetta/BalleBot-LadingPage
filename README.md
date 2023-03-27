@@ -1,4 +1,4 @@
-# 🤎 BalleBot - LadingPage
+# 🤎 BalleBot - Landing Page
 
 BR: Este é um projeto de estudo executado acompanhando um [tutorial no Youtube](https://www.youtube.com/watch?v=llF6vD-RljE&t=1557s) feito pela [@rafaballerini](https://github.com/rafaballerini). Além da Home da Lading Page, adicionei uma página "Sobre".
 
